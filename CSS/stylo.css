@@ -71,7 +71,8 @@ footer{
  }
 
  .pie{
-    margin:20px;
+    font-size:medium;
+    margin-top: 50px;
  }
 
  .colPie ul li{

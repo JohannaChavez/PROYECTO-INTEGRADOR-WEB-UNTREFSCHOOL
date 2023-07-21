@@ -1,0 +1,83 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+nav{
+    text-align: center;
+    background-color: #00425A;
+}
+
+.nav a{
+    text-decoration: none;
+    color: #EFF5F5;
+}
+
+.card-img-top{
+    height: 300px ;
+    opacity: 50%;
+    position: relative;
+  
+}
+
+.tituloCard{
+    background-color: #EFF5F5;
+}
+    
+h1{
+    font-family: 'Belanosima', sans-serif;
+    word-spacing: 5px;
+    color: #00425A;
+    text-align: left;
+    position:absolute;
+    top:25%;
+    left:15%;
+    text-shadow: 5px 5px 5px #181823;
+   
+}
+
+.tarjeta{
+    background-color: #1F8A70;
+    opacity: 80%;
+    text-align: center;
+    margin: 5px;
+}
+
+h2{
+    color: #00425A;
+    margin-top: 5px;
+    
+}
+
+h3{
+    color: #00425A;
+}
+
+
+
+p{
+  color: #181823;
+}
+
+footer{
+    background-color:#FC7300;
+    color: #EFF5F5;
+}
+
+
+ .colPie{
+   
+    padding: 2px;
+ }
+
+ .pie{
+    margin:20px;
+ }
+
+ .colPie ul li{
+    text-decoration: none;
+ }
+   
+.red{
+   color: #EFF5F5;
+}
